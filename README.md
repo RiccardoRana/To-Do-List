@@ -19,7 +19,7 @@ TECHNOLOGIES USED:
 GETTING STARTED
 
 First of all make sure to have node.JS installed on your pc.
-### `npm start`
+### `npm install`
 Make sure to use this command to install node modules file.
 Just open the main directory with any code editor and run the application with "npm start".
 
