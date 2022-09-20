@@ -1,0 +1,56 @@
+.title {
+    font-size: 30px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input {
+    width: 300px;
+    height: 30px;
+    margin-left: 35%;
+    border-radius: 8px;
+    border: 3px black solid;
+
+}
+
+.todos {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 20px 20px 0px 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 35%;
+    background-color: gainsboro;
+    border-radius: 8px;
+}
+
+.trash {
+    cursor: pointer;
+    color: red;
+    margin-left: 15px;
+}
+
+.testo {
+    font-size: 14px;
+}
+
+.mt-helper {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.errorMessage {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 20px 20px 10px 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+
+
+}
